@@ -18,7 +18,7 @@ I'm Hamdan Waqar, currently serving as the Senior Software Engineer. I specializ
 - Full-stack web development projects
 - Cloud computing and DevOps
 - Project Management
-- 
+
 ### 📫 How to reach me
 - **Email**: hamdanwaqar395@gmail.com
 - **Phone**: +923136899728
