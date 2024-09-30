@@ -23,7 +23,6 @@ I'm Hamdan Waqar, currently serving as the Senior Software Engineer. I specializ
 - **Email**: hamdanwaqar395@gmail.com
 - **Phone**: +923136899728
 
-- 
 ### ⚡ Fun fact: 
 I have a knack for integrating AI solutions seamlessly into everyday applications, making technology more accessible and user-friendly.
 
