@@ -15,6 +15,7 @@ I'm Hamdan Waqar, currently serving as the Senior Software Engineer. I specializ
 
 ### 👯 I’m looking to collaborate on
 - AI and OpenAI projects
+- Claude Code Multi Agentic Development
 - Full-stack web development projects
 - Cloud computing and DevOps
 - Project Management
